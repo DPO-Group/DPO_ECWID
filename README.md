@@ -6,6 +6,8 @@ This is the DPO Group method for ECWID. Please feel free to contact the [DPO Gro
 ## Installation
 [![How To Setup DPO Group for Ecwid](https://appinlet.com/wp-content/uploads/2021/02/How-To-Setup-DPO-Group-for-Ecwid.png)](https://www.youtube.com/watch?v=S7oeKyO6myA "How To Setup DPO Group for Ecwid")
 
+Please navigate to the [releases page](https://github.com/DPO-Group/DPO_ECWID/releases), download the latest release (v1.0.0). You will then be able to follow the integration guide PDF.
+
 ## About DPO
 
 [DPO's](https://dpogroup.com/) highly secure payment platform makes payments simple by allowing businesses to accept credit cards, mobile payments and cross-border payments.
